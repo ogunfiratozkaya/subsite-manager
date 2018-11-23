@@ -1,0 +1,25 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "f9acddd6-1e21-473d-a3c7-6c31e204a7c0",
+  "alias": "InterviewWebpartWebPart",
+  "componentType": "WebPart",
+  "version": "*",
+  "manifestVersion": 2,
+  "requiresCustomScript": false,
+  "preconfiguredEntries": [
+    {
+      "groupId": "5c03119e-3074-46fd-976b-c60198311f70",
+      "group": {
+        "default": "Other"
+      },
+      "title": {
+        "default": "InterviewWebpart"
+      },
+      "description": {
+        "default": "InterviewWebpart description"
+      },
+      "officeFabricIconFontName": "Page",
+      "properties": {}
+    }
+  ]
+}
